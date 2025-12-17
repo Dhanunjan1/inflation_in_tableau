@@ -82,7 +82,7 @@ Inflation_tableau-main/
 
 📧 Email: [raghuramdhanunjanreddy@gmail.com](mailto:raghuramdhanunjanreddy@gmail.com) \
 🔗 LinkedIn: [https://www.linkedin.com/in/dhanunjan-reddy-raghuram](https://www.linkedin.com/in/dhanunjan-reddy-raghuram) \
-💻 GitHub: [https://github.com/dhanunjanreddyraghuram](https://github.com/dhanunjanreddyraghuram) \
+💻 GitHub: [https://github.com/dhanunjanreddyraghuram](https://github.com/dhanunjanreddyraghuram)
 
 ---
 
